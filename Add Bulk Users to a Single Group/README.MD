@@ -7,7 +7,13 @@ That you want to add onto the DL or Security Group.
 
 ## Tool Usage / Must Know
 * Basic Powershell
-* How to Import-CSV
+* Import-CSV
+* ADUser
+* ForEach-Object
+* SamAccountName
+* ADGroupMember
+* Identity
+* Members
 
 ## Contact
 Feel free to reach out to me for any question or suggestion.
