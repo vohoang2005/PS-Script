@@ -1,0 +1,1 @@
+Rename-Item -Path "$Env:AppData\Microsoft\Outlook/Outlprnt" -NewName "Outlprnt.old"
