@@ -1,0 +1,1 @@
+(Get-ChildItem "Enter Path Here" | Get-Acl).Access.IdentityReference | select -Unique
